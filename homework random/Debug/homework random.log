@@ -1,0 +1,3 @@
+﻿  random.cpp
+C:\Users\bellorrawan\source\repos\homework random\homework random\random.cpp(8,18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  homework random.vcxproj -> C:\Users\bellorrawan\source\repos\homework random\Debug\homework random.exe
